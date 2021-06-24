@@ -1,6 +1,5 @@
 tion grpc
 /.idea
-README.md
 /bin/
 /pkg/
 /src/
